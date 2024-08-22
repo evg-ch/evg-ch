@@ -11,7 +11,7 @@
 <h4 align="left" height="10px">My experience 👇</h4>
 
 
-<div style="display: flex; align-items: center; margin-top: -20px">
+<div style="display: flex; flex-direction: row; align-items: center; margin-top: -20px">
     <h4 style="margin-right: 10px; margin-bottom: 30px;">🔹 Web3:</h4>
     <div>
         <img src="https://img.shields.io/badge/Solidity-5c6ac0" alt="Static Badge">
