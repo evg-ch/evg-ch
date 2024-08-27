@@ -2,9 +2,9 @@
 
 
 
-
+<div>
 <h4 align="left" height="10px">My experience 👇</h4>
-<div style="margin-top: -15px;">
+<div style="margin-top: -10px;">
  - 2+ years of development<br/>
 - DeFi protocol conceptualization and architecture development, full development cycle<br/>
 - Development, testing and deployment of smart contracts, understanding of security fundamentals<br/>
@@ -88,4 +88,4 @@
         <img src="https://img.shields.io/badge/Cloudflare-f48120" alt="Static Badge">
     </div>
 </div>
-
+</div>
