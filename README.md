@@ -24,7 +24,7 @@
 <h4 align="left" height="10px">My stack 👇</h4>
 
 <div style="display: flex; align-items: center; margin-top: -20px">
-    <h4 style="margin-right: 10px; margin-bottom: 30px;">🔹 Web3:</h4>
+    <div style="margin-right: 10px; margin-bottom: 30px;">🔹 Web3:</div>
     <div>
         <img src="https://img.shields.io/badge/Solidity-5c6ac0" alt="Static Badge">
         <img src="https://img.shields.io/badge/HardHat-f5da0e" alt="Static Badge">
