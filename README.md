@@ -3,15 +3,27 @@
 
 
 
-#### I am also the founder of <a href="https://praterion.com" style="text-decoration: none;">Praterion.com</a>, a web3-marketplace with reputation system and escrow.
-
-
-
-
 <h4 align="left" height="10px">My experience 👇</h4>
+<div style="margin-top: -10px;">
+ - 2+ years of development<br/>
+- DeFi protocol conceptualization and architecture development, full development cycle<br/>
+- Development, testing and deployment of smart contracts, understanding of security fundamentals<br/>
+- Experience with popular standards such as ERC-20, ERC-721, EIP-2535<br/>
+- Frontend development and integration of smart contracts<br/>
+- Server configuration and application deployment<br/>
+- Automate collection of transaction information from static and dynamic pages
+</div>
+
+<h4 align="left" height="10px">My projects 👇</h4>
+<div style="margin-top: -10px;">
+<a href="https://praterion.com" style="text-decoration: none;">Praterion.com</a> - web3 marketplace with reputation system and escrow
+<br/>
+</div>
 
 
-<div style="display: flex; flex-direction: row; align-items: center; margin-top: -20px">
+<h4 align="left" height="10px">My stack 👇</h4>
+
+<div style="display: flex; align-items: center; margin-top: -20px">
     <h4 style="margin-right: 10px; margin-bottom: 30px;">🔹 Web3:</h4>
     <div>
         <img src="https://img.shields.io/badge/Solidity-5c6ac0" alt="Static Badge">
@@ -22,16 +34,9 @@
         <img src="https://img.shields.io/badge/ethers.js-272a93" alt="Static Badge">
     </div>
 </div>
-<div style="margin-top: -20px;">
-    Development, testing and deployment of smart contracts.<br/>
-    Development of dApps, understanding of security fundamentals.<br/>
-    Experience with popular standards such as ERC-20, ERC-721, EIP-2535.
-</div>
 
 
-
-
-<div style="display: flex; align-items: center; margin-top: 10px">
+<div style="display: flex; align-items: center; margin-top: -20px">
     <h4 style="margin-right: 10px; margin-bottom: 30px;">🔹 Backend:</h4>
     <div>
         <img src="https://img.shields.io/badge/Node.js-80bd00" alt="Static Badge">
@@ -70,14 +75,10 @@
         <img src="https://img.shields.io/badge/PyQt-41cd52" alt="Static Badge">
     </div>
 </div>
-<div style="margin-top: -20px;">
-    Automate collection of transaction information from static and dynamic pages
-</div>
 
 
 
-
-<div style="display: flex; align-items: center; margin-top: 10px">
+<div style="display: flex; align-items: center; margin-top: -20px">
     <h4 style="margin-right: 10px; margin-bottom: 30px;">🔹 DevOps:</h4>
     <div>
         <img src="https://img.shields.io/badge/Ubuntu-dd4813" alt="Static Badge">
@@ -86,8 +87,5 @@
         <img src="https://img.shields.io/badge/SSL-119ee8" alt="Static Badge">
         <img src="https://img.shields.io/badge/Cloudflare-f48120" alt="Static Badge">
     </div>
-</div>
-<div style="margin-top: -20px;">
-    Server configuration and application deployment
 </div>
 
