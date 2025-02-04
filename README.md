@@ -14,17 +14,10 @@
 - Automate collection of transaction information from static and dynamic pages
 </div>
 
-<h4 align="left" height="10px">My projects 👇</h4>
-<div style="margin-top: -10px;">
-<a href="https://praterion.com" style="text-decoration: none;">Praterion.com</a> - web3 marketplace with reputation system and escrow
-<br/>
-</div>
+
 
 
 <h4 align="left" height="10px">My stack 👇</h4>
-
-
-
 
 <div style="display: flex; align-items: center; margin-top: -20px">
     <h4 style="margin-right: 10px; margin-bottom: 30px;">🔹 Backend:</h4>
@@ -96,5 +89,11 @@
         <img src="https://img.shields.io/badge/Docker-f48120" alt="Static Badge">
         <img src="https://img.shields.io/badge/GitHub Actions-f48120" alt="Static Badge">
     </div>
+</div>
+
+<h4 align="left" height="10px">My projects 👇</h4>
+<div style="margin-top: -10px;">
+<a href="https://praterion.com" style="text-decoration: none;">Praterion.com</a> - web3 marketplace with reputation system and escrow
+<br/>
 </div>
 </div>
