@@ -24,12 +24,12 @@
     <div>
         <img src="https://img.shields.io/badge/Node.js-80bd00" alt="Static Badge">
         <img src="https://img.shields.io/badge/Express-f7df1f" alt="Static Badge">
-        <img src="https://img.shields.io/badge/NestJS-f7df1f" alt="Static Badge">
-        <img src="https://img.shields.io/badge/Postgres-f7df1f" alt="Static Badge">
-        <img src="https://img.shields.io/badge/Prisma ORM-f7df1f" alt="Static Badge">
-        <img src="https://img.shields.io/badge/Redis-f7df1f" alt="Static Badge">
-        <img src="https://img.shields.io/badge/OAuth-f7df1f" alt="Static Badge">
-        <img src="https://img.shields.io/badge/RestAPI-f7df1f" alt="Static Badge">
+        <img src="https://img.shields.io/badge/NestJS-da234c" alt="Static Badge">
+        <img src="https://img.shields.io/badge/Postgres-31638d" alt="Static Badge">
+        <img src="https://img.shields.io/badge/Prisma ORM-1e1e1e" alt="Static Badge">
+        <img src="https://img.shields.io/badge/Redis-d81f27" alt="Static Badge">
+        <img src="https://img.shields.io/badge/OAuth-3771a1" alt="Static Badge">
+        <img src="https://img.shields.io/badge/RestAPI-e88c1f" alt="Static Badge">
     </div>
 </div>
 
@@ -51,8 +51,9 @@
     </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-top: -20px">
-    <div style="margin-right: 10px; margin-bottom: 30px;">🔹 Web3:</div>
+
+ <div style="display: flex; align-items: center; margin-top: -20px">
+    <h4 style="margin-right: 10px; margin-bottom: 30px;">🔹 Web3:</h4>
     <div>
         <img src="https://img.shields.io/badge/Solidity-5c6ac0" alt="Static Badge">
         <img src="https://img.shields.io/badge/HardHat-f5da0e" alt="Static Badge">
