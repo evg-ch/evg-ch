@@ -46,8 +46,8 @@
         <img src="https://img.shields.io/badge/HTML-e44d26" alt="Static Badge">
         <img src="https://img.shields.io/badge/CSS/SASS-264de4" alt="Static Badge">
         <img src="https://img.shields.io/badge/Figma-1e1e1e" alt="Static Badge">
-        <img src="https://img.shields.io/badge/Tailwind-440962" alt="Static Badge">
-        <img src="https://img.shields.io/badge/Puppeteer-440962" alt="Static Badge">
+        <img src="https://img.shields.io/badge/Tailwind-2d79c8" alt="Static Badge">
+        <img src="https://img.shields.io/badge/Puppeteer-30c453" alt="Static Badge">
     </div>
 </div>
 
@@ -86,8 +86,8 @@
         <img src="https://img.shields.io/badge/PM2-3fb2ee" alt="Static Badge">
         <img src="https://img.shields.io/badge/SSL-119ee8" alt="Static Badge">
         <img src="https://img.shields.io/badge/Cloudflare-f48120" alt="Static Badge">
-        <img src="https://img.shields.io/badge/Docker-f48120" alt="Static Badge">
-        <img src="https://img.shields.io/badge/GitHub Actions-f48120" alt="Static Badge">
+        <img src="https://img.shields.io/badge/Docker-3fb2ee" alt="Static Badge">
+        <img src="https://img.shields.io/badge/GitHub Actions-1e1e1e" alt="Static Badge">
     </div>
 </div>
 
