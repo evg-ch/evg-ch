@@ -10,6 +10,7 @@
 - Development, testing and deployment of smart contracts, understanding of security fundamentals<br/>
 - Experience with popular standards such as ERC-20, ERC-721, EIP-2535<br/>
 - Frontend development and integration of smart contracts<br/>
+- Backend development<br/>
 - Server configuration and application deployment<br/>
 - Automate collection of transaction information from static and dynamic pages
 </div>
